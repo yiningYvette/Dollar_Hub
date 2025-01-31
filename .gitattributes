@@ -1,0 +1,5 @@
+large_file filter=lfs diff=lfs merge=lfs -text
+/Users/songyining/Documents/MACSS/winter_2025/MACS30122/project/Dollar_Hub/data/crosswalk_2020_2010.csv filter=lfs diff=lfs merge=lfs -text
+data/Public_Housing_Buildings_-1217833525145519970.csv filter=lfs diff=lfs merge=lfs -text
+data/crosswalk_2020_2010.csv filter=lfs diff=lfs merge=lfs -text
+data/IPEDS_2022-23_Final/IPEDS202223.accdb filter=lfs diff=lfs merge=lfs -text
