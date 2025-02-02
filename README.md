@@ -1,31 +1,31 @@
-# Dollar_Hub
-# Project Contributors and Responsibilities
+# Dollar_Hub 
+# Project Contributors and Responsibilities 
 
-## Data Collection
-- **Zillow Data Scraping**: Zixuan, Xinyue (Yolanda)  
-- **Census Data Scraping**: Yining  
+## Data Collection 
+- **Zillow Data Scraping**: Zixuan, Xinyue (Yolanda)   
+- **Census Data Scraping**: Yining   
 
-## Progress Report
-- Abe, Yining, Xinyue (Yolanda), Zixuan  
+## Progress Report 
+- Abe, Yining, Xinyue (Yolanda), Zixuan   
 
-## Data Visualization
+## Data Visualization 
 - Zixuan, Xinyue (Yolanda)  
 
-## Literature Review
+## Literature Review 
 - Zixuan  
 
-## Machine Learning Model Training
+## Machine Learning Model Training 
 - Abe, Xinyue (Yolanda)  
 
-## Data Analysis
+## Data Analysis 
 - Abe, Yining, Xinyue (Yolanda), Zixuan  
 
-## Class Presentation
+## Class Presentation 
 - Abe, Yining, Xinyue (Yolanda), Zixuan  
 
-## Slides
+## Slides 
 - Abe, Yining, Xinyue (Yolanda), Zixuan  
 
-## Final Report
+## Final Report 
 - Abe, Yining, Xinyue (Yolanda), Zixuan  
 
